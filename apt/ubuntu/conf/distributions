@@ -1,0 +1,9 @@
+Codename: focal
+Architectures: amd64
+Components: main
+Contents: . .gz .bz2
+
+Codename: bionic
+Architectures: amd64
+Components: main
+Contents: . .gz .bz2
