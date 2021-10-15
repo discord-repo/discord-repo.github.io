@@ -1,5 +1,8 @@
-Codename: bionic
-Date: Fri, 15 Oct 2021 12:45:56 UTC
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: focal
+Date: Fri, 15 Oct 2021 12:45:57 UTC
 Architectures: amd64
 Components: main
 MD5Sum:
@@ -23,3 +26,17 @@ SHA256:
  141f6230debd15474cc13a60bfe226245f3b6fd9b300290b565b7f617cf105da 3892 main/Contents-amd64
  8daa21d87f0ca81fd267f43a5a1d39b38970156ec13608571d1bb34888f81d7b 486 main/Contents-amd64.gz
  95aad55e81b9265f7891ad8ed10f80797858f08833c409fe3effc762e14b5858 552 main/Contents-amd64.bz2
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEpjlPFOGOw9vLJARirE6Yaw6n3lsFAmFpeAUACgkQrE6Yaw6n
+3ltONQv+Md6gaL8jGV4DqbfJxpU6tLouhewKVsJPLEKWZEPPTiJoaw1D4TsNYHma
+IXzBUUoE4/o6qpVcwmyLyUPNxt6zvDTgntZbfxuRjGmeWrjxIssu5ofrxB9eNbYA
+SYHRnoZqvVckImDBKFFQqP/V9TJWGDdEn/ruN5Mof/gcmXPsAuCX0eTfKYEBSKOx
+d3ZQ6PoPtOm7Jnj1GQQWYPZiqlL/9sg7rTflJq/q4rpewCVI4WWdz20anLRLs8zm
+2ZcWfV2VH7+1/f96TP6Mn2UtQv2+k4iucpDO0DTQwmwHHzlTOP2LqnfJGQ33xBLP
+5nCGUr9fOg3yYTAyDFz8RkqGLsFOmoHaSIBYXIiU7QNBMztexC+AD4XhJGFwWcGm
+dH1bpm5fEASK9jeY9+i79cGPefhA/zSpZOumaTCuAWYzvahTrGhjQ04piLk7M0Of
++DwZUhoL50xvI0juBHcVLMXHeWdFeqBB+aGmpDul4vMNyLw4haRQr9GTCOpho2g7
+ejb2v9D8
+=zmT+
+-----END PGP SIGNATURE-----
