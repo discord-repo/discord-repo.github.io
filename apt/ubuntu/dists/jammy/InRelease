@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: jammy
+Date: Mon, 29 Aug 2022 06:18:43 UTC
+Architectures: amd64
+Components: main
+MD5Sum:
+ e0f341f362692a8e401eb953f2c08876 797 main/binary-amd64/Packages
+ d790bd880ae157a72587b2e34dc80075 521 main/binary-amd64/Packages.gz
+ 063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
+ adc9c48fc2639e012da96412cf52449d 3892 main/Contents-amd64
+ aec4e2df340cfec41559e5d2423f38a6 486 main/Contents-amd64.gz
+ e513251a4fc3f61b695182c091ac1410 552 main/Contents-amd64.bz2
+SHA1:
+ fbd9dbcbe221fcc9a08ea5a21ec871b21ade3794 797 main/binary-amd64/Packages
+ 38a0de4a606f7a18896ba4910b8f50a0d88e60f1 521 main/binary-amd64/Packages.gz
+ f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
+ 09e37962351d40740326c93ff011d16509fa4363 3892 main/Contents-amd64
+ 4c78863324778540bfb748ccdb0bd8df8af9ca8d 486 main/Contents-amd64.gz
+ 7326802ce6389fda138e2ca8d2523d970a70914b 552 main/Contents-amd64.bz2
+SHA256:
+ 7eb7073767ed791372471aa04e7da188bf05b22f90d41f93f35b3ca197868466 797 main/binary-amd64/Packages
+ 1443bd1cdd3a55b71967aa72f8461153cef949e4df8bad4fb447c9bf69985b77 521 main/binary-amd64/Packages.gz
+ f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release
+ 141f6230debd15474cc13a60bfe226245f3b6fd9b300290b565b7f617cf105da 3892 main/Contents-amd64
+ 8daa21d87f0ca81fd267f43a5a1d39b38970156ec13608571d1bb34888f81d7b 486 main/Contents-amd64.gz
+ 95aad55e81b9265f7891ad8ed10f80797858f08833c409fe3effc762e14b5858 552 main/Contents-amd64.bz2
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEpjlPFOGOw9vLJARirE6Yaw6n3lsFAmMMWkMACgkQrE6Yaw6n
+3lvACQv+NlTpIQmV3/re2+1tqvTjAGs16nm1JnTuSiqGBHSyuEecB9H4Laked5oD
+uqbcnslI8DB48Mj40Q92bcglmHDoG8M7+/t7ZJfOvAUQ5Hlhn+8YeTgjx6F+Llri
+rbpfS9Ai4/qofpLkwhYp3BZPHaXwTbAuNe/eZNveX4pczDBJCr5nKVz8WOvmbfLx
+I6b+1mnOs8jV3YLY7wn1oDkFLDZjnd24lIzyTtMEEBEYDCsoedVpLG6B9Sb1e6Uv
+CrYSbO6PQtlYH5dJ0laYDibHs5ggfBgvh9L+oElvC9sDvObX2RN+rhnjGm36dfQy
+5TYMTm6DZsErLaydkBJhcH2tGPzUrdkYgrTpV8e9VYdXhw2TqRA8WIwGizfHaB2N
+fwqsurXYgjOXSuCUjI3oktCFu9kDHrZZDg6dg06h9z+MyGNfcDRAJGQl7d9D/og8
+cVegpA/p49P5Rg+6EIBp5jNWovBL2lhV7oTIyrw61TIuF87EtLELTGkTKFfmlSVk
+uTcc19zb
+=mFKl
+-----END PGP SIGNATURE-----
