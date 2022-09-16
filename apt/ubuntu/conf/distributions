@@ -1,11 +1,11 @@
 Codename: focal
-Architectures: amd64
+Architectures: i386 amd64
 Components: main
 Contents: . .gz .bz2
 SignWith: A6394F14E18EC3DBCB240462AC4E986B0EA7DE5B
 
 Codename: jammy
-Architectures: amd64
+Architectures: i386 amd64
 Components: main
 Contents: . .gz .bz2
 SignWith: A6394F14E18EC3DBCB240462AC4E986B0EA7DE5B
