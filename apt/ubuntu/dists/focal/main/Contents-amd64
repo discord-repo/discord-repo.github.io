@@ -15,6 +15,7 @@ usr/share/discord/postinst.sh	    net/discord
 usr/share/discord/resources.pak	    net/discord
 usr/share/discord/snapshot_blob.bin	    net/discord
 usr/share/discord/v8_context_snapshot.bin	    net/discord
+usr/share/discord/vk_swiftshader_icd.json	    net/discord
 usr/share/discord/locales/am.pak	    net/discord
 usr/share/discord/locales/ar.pak	    net/discord
 usr/share/discord/locales/bg.pak	    net/discord

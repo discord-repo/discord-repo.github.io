@@ -1,18 +1,18 @@
 Package: discord
-Version: 0.0.21
+Version: 0.0.22
 Depends: libc6, libasound2, libatomic1, libgconf-2-4, libnotify4, libnspr4, libnss3, libstdc++6, libxss1, libxtst6, libc++1
 Recommends: libappindicator1 | libayatana-appindicator1
 Homepage: https://discord.com
 Architecture: amd64
-Installed-Size: 184248
+Installed-Size: 184280
 Maintainer: Discord Maintainer Team <native-team@discord.com>
 Priority: optional
 Section: net
-Filename: pool/main/d/discord/discord_0.0.21_amd64.deb
-Size: 77233440
-SHA256: 289d31cde7e3581e76fcc7bbe3d0a5643a7bf6fe19346edcd7fa92894e7b5d71
-SHA1: 15adf77e0d2d92a2704775230757797e051a3143
-MD5sum: 96ca5d36e625981933340a355a935a81
+Filename: pool/main/d/discord/discord_0.0.22_amd64.deb
+Size: 77257952
+SHA256: 319bae1efb531fe2a878499ee2a5dd86e1e6832a38360a419472dfc372b881c9
+SHA1: 34b1b2acb4f6bcfb830366605e70d40cae38d7b8
+MD5sum: a3f559beff6ebb7fde97e8e9915869d2
 Description: Chat for Communities and Friends
  Discord is the easiest way to communicate over voice, video, and text. Chat,
  hang out, and stay close with your friends and communities.
