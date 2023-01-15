@@ -4,7 +4,6 @@ usr/share/discord/Discord	    net/discord
 usr/share/discord/chrome-sandbox	    net/discord
 usr/share/discord/chrome_100_percent.pak	    net/discord
 usr/share/discord/chrome_200_percent.pak	    net/discord
-usr/share/discord/chrome_crashpad_handler	    net/discord
 usr/share/discord/discord.desktop	    net/discord
 usr/share/discord/discord.png	    net/discord
 usr/share/discord/icudtl.dat	    net/discord
@@ -12,7 +11,6 @@ usr/share/discord/libEGL.so	    net/discord
 usr/share/discord/libGLESv2.so	    net/discord
 usr/share/discord/libffmpeg.so	    net/discord
 usr/share/discord/libvk_swiftshader.so	    net/discord
-usr/share/discord/libvulkan.so.1	    net/discord
 usr/share/discord/postinst.sh	    net/discord
 usr/share/discord/resources.pak	    net/discord
 usr/share/discord/snapshot_blob.bin	    net/discord
