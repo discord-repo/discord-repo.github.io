@@ -11,6 +11,7 @@ usr/share/discord/libEGL.so	    net/discord
 usr/share/discord/libGLESv2.so	    net/discord
 usr/share/discord/libffmpeg.so	    net/discord
 usr/share/discord/libvk_swiftshader.so	    net/discord
+usr/share/discord/libvulkan.so.1	    net/discord
 usr/share/discord/postinst.sh	    net/discord
 usr/share/discord/resources.pak	    net/discord
 usr/share/discord/snapshot_blob.bin	    net/discord
