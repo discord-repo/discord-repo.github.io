@@ -4,6 +4,7 @@ usr/share/discord/Discord	    net/discord
 usr/share/discord/chrome-sandbox	    net/discord
 usr/share/discord/chrome_100_percent.pak	    net/discord
 usr/share/discord/chrome_200_percent.pak	    net/discord
+usr/share/discord/chrome_crashpad_handler	    net/discord
 usr/share/discord/discord.desktop	    net/discord
 usr/share/discord/discord.png	    net/discord
 usr/share/discord/icudtl.dat	    net/discord
@@ -17,6 +18,7 @@ usr/share/discord/resources.pak	    net/discord
 usr/share/discord/snapshot_blob.bin	    net/discord
 usr/share/discord/v8_context_snapshot.bin	    net/discord
 usr/share/discord/vk_swiftshader_icd.json	    net/discord
+usr/share/discord/locales/af.pak	    net/discord
 usr/share/discord/locales/am.pak	    net/discord
 usr/share/discord/locales/ar.pak	    net/discord
 usr/share/discord/locales/bg.pak	    net/discord
@@ -67,14 +69,13 @@ usr/share/discord/locales/te.pak	    net/discord
 usr/share/discord/locales/th.pak	    net/discord
 usr/share/discord/locales/tr.pak	    net/discord
 usr/share/discord/locales/uk.pak	    net/discord
+usr/share/discord/locales/ur.pak	    net/discord
 usr/share/discord/locales/vi.pak	    net/discord
 usr/share/discord/locales/zh-CN.pak	    net/discord
 usr/share/discord/locales/zh-TW.pak	    net/discord
 usr/share/discord/resources/app.asar	    net/discord
 usr/share/discord/resources/build_info.json	    net/discord
 usr/share/discord/resources/bootstrap/manifest.json	    net/discord
-usr/share/discord/swiftshader/libEGL.so	    net/discord
-usr/share/discord/swiftshader/libGLESv2.so	    net/discord
 usr/share/doc/discord/copyright	    net/discord
 usr/share/lintian/overrides/discord	    net/discord
 usr/share/pixmaps/discord.png	    net/discord
