@@ -76,10 +76,6 @@ usr/share/discord/locales/zh-TW.pak	    net/discord
 usr/share/discord/resources/app.asar	    net/discord
 usr/share/discord/resources/build_info.json	    net/discord
 usr/share/discord/resources/bootstrap/manifest.json	    net/discord
-usr/share/discord/resources/tzdata/metaZones.res	    net/discord
-usr/share/discord/resources/tzdata/timezoneTypes.res	    net/discord
-usr/share/discord/resources/tzdata/windowsZones.res	    net/discord
-usr/share/discord/resources/tzdata/zoneinfo64.res	    net/discord
 usr/share/doc/discord/copyright	    net/discord
 usr/share/lintian/overrides/discord	    net/discord
 usr/share/pixmaps/discord.png	    net/discord
