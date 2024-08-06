@@ -1,13 +1,13 @@
 Codename: focal
-Date: Wed, 31 Jul 2024 00:25:45 UTC
+Date: Tue, 06 Aug 2024 00:31:15 UTC
 Architectures: i386 amd64
 Components: main
 MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
  5e77d15a7c8b516e15488780beb4ad24 35 main/binary-i386/Release
- ed3167b31efcb03dbcd66c46ed827f16 775 main/binary-amd64/Packages
- c64f5e864b0985607c96b7cf372281ba 508 main/binary-amd64/Packages.gz
+ 69f5885dc501c2cecc5a95427c3d944b 775 main/binary-amd64/Packages
+ a824a7cb25bcb3d68c22246d04877216 508 main/binary-amd64/Packages.gz
  063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/Contents-i386
  7029066c27ac6f5ef18d660d5741979a 20 main/Contents-i386.gz
@@ -19,8 +19,8 @@ SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
  ea0e5aa4a1859481eb8929e40af14736bd50387b 35 main/binary-i386/Release
- 1e8cb131dae122e384fd351459da10bd0c1a9fe0 775 main/binary-amd64/Packages
- e3834ccb7eec192350ac2fa47b025a63b1591f85 508 main/binary-amd64/Packages.gz
+ 93b785793f9a283fd44951f516193c619496d1fe 775 main/binary-amd64/Packages
+ d54c3f96b23eb69a71ac71e4239f756c10b946f8 508 main/binary-amd64/Packages.gz
  f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/Contents-i386
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/Contents-i386.gz
@@ -32,8 +32,8 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
  2ca4451c438b7f4614813919cded632edc7d0318dd7b120d5aa77ec03f055dd6 35 main/binary-i386/Release
- ed0c86f7fbc8f2c9df18fae0d8729153e6126914ebc9141e9d9a33403beb4ad9 775 main/binary-amd64/Packages
- 2a0153c8839c05f10237ffed451995a7e2588e28258cb14e4b197fac38f65bac 508 main/binary-amd64/Packages.gz
+ ec9415392ec1bf8ab30afd561cda3eb6f1d18b2ad725abd72fec3ac66b7d58f4 775 main/binary-amd64/Packages
+ 38a6feb65e8e4ebd02073e6aaf3188319544ca01c67337f6d011a8c939145491 508 main/binary-amd64/Packages.gz
  f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/Contents-i386
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/Contents-i386.gz
