@@ -1,13 +1,13 @@
 Codename: jammy
-Date: Wed, 28 Aug 2024 00:32:48 UTC
+Date: Thu, 05 Sep 2024 00:33:32 UTC
 Architectures: i386 amd64
 Components: main
 MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
  5e77d15a7c8b516e15488780beb4ad24 35 main/binary-i386/Release
- f2c62dcb85d4f438dd7936ba089682b1 775 main/binary-amd64/Packages
- 637b94e08c11f768183b4c9598d2d357 510 main/binary-amd64/Packages.gz
+ 0fd815e6069b1b93c905f2d733003baa 775 main/binary-amd64/Packages
+ 471fed1d3adce252917595ec6191151c 509 main/binary-amd64/Packages.gz
  063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/Contents-i386
  7029066c27ac6f5ef18d660d5741979a 20 main/Contents-i386.gz
@@ -19,8 +19,8 @@ SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
  ea0e5aa4a1859481eb8929e40af14736bd50387b 35 main/binary-i386/Release
- 01913d6b504676479a6f19832d84466747d9ebd7 775 main/binary-amd64/Packages
- 6ac8284dad1a16b63ee6e93b376a41d012fb3c08 510 main/binary-amd64/Packages.gz
+ 3585cd0fc9f6237629ab9092bce4fdedf5f865e2 775 main/binary-amd64/Packages
+ bea64c47b1c70a4f678e67d7234f09f9bce3b9ac 509 main/binary-amd64/Packages.gz
  f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/Contents-i386
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/Contents-i386.gz
@@ -32,8 +32,8 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
  2ca4451c438b7f4614813919cded632edc7d0318dd7b120d5aa77ec03f055dd6 35 main/binary-i386/Release
- ea291faa8a3419b92ed82aa97d71697d56ef17c444ed022182121b854528b525 775 main/binary-amd64/Packages
- c809fac3597bf0d009f7b7c685d36b7e1fe5e427fe028d391b55e473b63130de 510 main/binary-amd64/Packages.gz
+ 7795538d756ef85c9341848952c76ebb6a750424fc4671f81f5e1d8e2a8c00e4 775 main/binary-amd64/Packages
+ 3eabd7902ff41def4e5a6d55ecf06f03c150ba085a4a1927e620ee875fbff5fe 509 main/binary-amd64/Packages.gz
  f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/Contents-i386
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/Contents-i386.gz
